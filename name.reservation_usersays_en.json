@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d474a996-3884-4fe9-bcc2-3c15dd822852",
+    "data": [
+      {
+        "text": "I want to change my name on my hotel reservation.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d36c717a-4388-446e-bf3e-46354a4b81aa",
+    "data": [
+      {
+        "text": "I need to change my name on the booking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b982bd-1c8d-4bd9-b3c4-af5611ded43d",
+    "data": [
+      {
+        "text": "Can I change my name on my reservation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fadb2e42-e62f-4b0d-977b-d692aa707533",
+    "data": [
+      {
+        "text": "I want to change my name on my itinerary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
